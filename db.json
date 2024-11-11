@@ -1,0 +1,87 @@
+{
+  "allVideos": [
+    {
+      "id": "8f1b",
+      "caption": "React",
+      "imgUrl": "https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg",
+      "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+    },
+    {
+      "id": "ee7d",
+      "caption": "sg",
+      "imgUrl": "dhd",
+      "link": "https://www.youtube.com/embed/xb"
+    }
+  ],
+  "category": [
+    {
+      "id": "62a6",
+      "categoryName": "angular",
+      "allVideos": [
+        {
+          "id": "e494",
+          "caption": "Angular",
+          "imgUrl": "https://www.filepicker.io/api/file/4MQJdtZlRjucDERLLHcA",
+          "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=bNfFiA7hyAvyNFEs"
+        },
+        {
+          "id": "8f1b",
+          "caption": "React",
+          "imgUrl": "https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg",
+          "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+        },
+        {
+          "id": "8f1b",
+          "caption": "React",
+          "imgUrl": "https://pluspng.com/img-png/react-logo-png-javascript-logo-react-js-stickers-mugs-t-shirts-and-much-more-880x1136.jpg",
+          "link": "https://www.youtube.com/embed/JPT3bFIwJYA?si=23XLJCuLir1gPhz4"
+        },
+        {
+          "id": "ee7d",
+          "caption": "sg",
+          "imgUrl": "dhd",
+          "link": "https://www.youtube.com/embed/xb"
+        }
+      ]
+    },
+    {
+      "id": "ec85",
+      "categoryName": "NodeJS",
+      "allVideos": []
+    },
+    {
+      "id": "b297",
+      "categoryName": "React",
+      "allVideos": []
+    },
+    {
+      "id": "41c1",
+      "categoryName": "Music",
+      "allVideos": []
+    },
+    {
+      "id": "c475",
+      "categoryName": "MERN",
+      "allVideos": []
+    },
+    {
+      "id": "f083",
+      "categoryName": "New ",
+      "allVideos": []
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": "90ac",
+      "caption": "Angular",
+      "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=bNfFiA7hyAvyNFEs",
+      "timestamp": "11/05/24, 10:37:55 AM"
+    },
+    {
+      "id": "7c9d",
+      "caption": "Angular",
+      "link": "https://www.youtube.com/embed/CGLdH5ORX-Y?si=bNfFiA7hyAvyNFEs",
+      "timestamp": "11/06/24, 09:55:34 AM"
+    }
+  ]
+}
